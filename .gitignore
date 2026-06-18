@@ -1,0 +1,7 @@
+**/slprj/
+**/*.slxc
+**/*.slx.autosave
+**/~$*
+**/__pycache__/
+**/*.pyc
+**/*.nc
