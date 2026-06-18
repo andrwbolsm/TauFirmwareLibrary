@@ -1,0 +1,3 @@
+C:/Users/andre/OneDrive/Documentos/rocket_firmware/firmware/build/CMakeFiles/AvionicFirmware.dir
+C:/Users/andre/OneDrive/Documentos/rocket_firmware/firmware/build/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Documentos/rocket_firmware/firmware/build/CMakeFiles/rebuild_cache.dir
